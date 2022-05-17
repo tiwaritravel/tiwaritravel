@@ -3,6 +3,16 @@
 <title>Css3</title>
 </head>
 
+<style>
+.run{
+width:100%;
+height:500px;
+float:left:
+background:linear-gradient(#158dea,#baba00,#350000,#ffdfd1);
+animation:move linear 2s infinite;
+}
+</style>
+
 <body>
 <div class="run"></div>
 </body>
